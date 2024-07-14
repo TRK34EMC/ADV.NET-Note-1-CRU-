@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adv.Net\\LabTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|d:\\adv.net\\labtask\\labtask\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|d:\\adv.net\\labtask\\labtask\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\dto\\coursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\dto\\coursesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\ef\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\ef\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\ef\\courses.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\ef\\courses.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\ef\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\ef\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|D:\\Adv.Net\\LabTask\\labtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25659320-E4A8-48DF-9FB3-A5B78F5448ED}|LabTask\\LabTask.csproj|solutionrelative:labtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "LabTask\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "LabTask\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T17:06:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabTask\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "LabTask\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:40:54.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\EF\\Cours.cs",
+              "RelativeDocumentMoniker": "LabTask\\EF\\Cours.cs",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\EF\\Cours.cs",
+              "RelativeToolTip": "LabTask\\EF\\Cours.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:29:48.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "LabTask\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "LabTask\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:59:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabTask\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "LabTask\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:31:02.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courses.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\EF\\Courses.edmx",
+              "RelativeDocumentMoniker": "LabTask\\EF\\Courses.edmx",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\EF\\Courses.edmx [Diagram1]",
+              "RelativeToolTip": "LabTask\\EF\\Courses.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-23T08:00:27.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\EF\\Courses.cs",
+              "RelativeDocumentMoniker": "LabTask\\EF\\Courses.cs",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\EF\\Courses.cs",
+              "RelativeToolTip": "LabTask\\EF\\Courses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:29:47.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "..\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "ToolTip": "D:\\Adv.Net\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "RelativeToolTip": "..\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:32:52.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\DTO\\CoursesDTO.cs",
+              "RelativeDocumentMoniker": "LabTask\\DTO\\CoursesDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\DTO\\CoursesDTO.cs",
+              "RelativeToolTip": "LabTask\\DTO\\CoursesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:52:05.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LabTask\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "LabTask\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T07:53:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Web.config",
+              "RelativeDocumentMoniker": "LabTask\\Web.config",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Web.config",
+              "RelativeToolTip": "LabTask\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAADFAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-23T07:59:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LabTask\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LabTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:53:28.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LabTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LabTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:11:21.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
